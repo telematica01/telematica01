@@ -1,0 +1,544 @@
+Nombre Turista: 
+Cedula de identidad del turista: 
+Sexo: 
+Fecha registro: 
+Almuerzo: 
+Tipo de paquete: 
+Total a pagar:37
+.........................................................................
+Nombre Turista: Raquel
+Cedula de identidad del turista: 114220909
+Sexo: femenino
+Fecha registro:  08/10/2018 
+Almuerzo: si
+Tipo de paquete: PVida
+Total a pagar:41
+.........................................................................
+Nombre Turista: Raquel
+Cedula de identidad del turista: 114220909
+Sexo: femenino
+Fecha registro:  08/10/2018 
+Almuerzo: si
+Tipo de paquete: PVida
+Total a pagar:37Total a pagar:52Total a pagar:68
+.........................................................................
+Nombre Turista: Anahi
+Cedula de identidad del turista: 123|
+Sexo: masculino
+Fecha registro:  08/10/2018 
+Almuerzo: no
+Tipo de paquete: Full Day
+Total a pagar:37Total a pagar:52Total a pagar:68
+.........................................................................
+Nombre Turista: Anahi
+Cedula de identidad del turista: 123|
+Sexo: masculino
+Fecha registro:  08/10/2018 
+Almuerzo: no
+Tipo de paquete: Full Day
+Total a pagar:37Total a pagar:52Total a pagar:68
+.........................................................................
+Nombre Turista: Anthony
+Cedula de identidad del turista: 111
+Sexo: masculino
+Fecha registro:  08/10/2018 
+Almuerzo: no
+Tipo de paquete: Full Day
+Total a pagar:37Total a pagar:52Total a pagar:68
+.........................................................................
+Nombre Turista: Anthony
+Cedula de identidad del turista: 111
+Sexo: masculino
+Fecha registro:  08/10/2018 
+Almuerzo: no
+Tipo de paquete: Full Day
+Total a pagar:37Total a pagar:52Total a pagar:68
+.........................................................................
+Nombre Turista: Ana
+Cedula de identidad del turista: 333
+Sexo: 
+Fecha registro:  08/10/2018 
+Almuerzo: 
+Tipo de paquete: Pura Vida
+Total a pagar:37Total a pagar:52Total a pagar:68
+.........................................................................
+Nombre Turista: Ana
+Cedula de identidad del turista: 123
+Sexo: femenino
+Fecha registro:  08/10/2018 
+Almuerzo: no
+Tipo de paquete: Full Day
+Total a pagar:37Total a pagar:52Total a pagar:68
+.........................................................................
+Nombre Turista: Ana
+Cedula de identidad del turista: 123
+Sexo: femenino
+Fecha registro:  08/10/2018 
+Almuerzo: no
+Tipo de paquete: Full Day
+Total a pagar:37Total a pagar:52Total a pagar:68
+.........................................................................
+Nombre Turista: Maria
+Cedula de identidad del turista: 444
+Sexo: femenino
+Fecha registro:  08/10/2018 
+Almuerzo: no
+Tipo de paquete: Full Day
+Total a pagar:37Total a pagar:52Total a pagar:68
+.........................................................................
+Nombre Turista: Maria
+Cedula de identidad del turista: 444
+Sexo: femenino
+Fecha registro:  08/10/2018 
+Almuerzo: no
+Tipo de paquete: Full Day
+Total a pagar:37Total a pagar:52Total a pagar:68
+.........................................................................
+Nombre Turista: luis
+Cedula de identidad del turista: 222
+Sexo: masculino
+Fecha registro:  08/10/2018 
+Almuerzo: no
+Tipo de paquete: Full Day
+Total a pagar:37Total a pagar:52Total a pagar:68
+.........................................................................
+Nombre Turista: luis
+Cedula de identidad del turista: 222
+Sexo: masculino
+Fecha registro:  08/10/2018 
+Almuerzo: no
+Tipo de paquete: Full Day
+Total a pagar:37Total a pagar:52Total a pagar:68
+.........................................................................
+Nombre Turista: anais
+Cedula de identidad del turista: 111
+Sexo: femenino
+Fecha registro:  08/10/2018 
+Almuerzo: no
+Tipo de paquete: Full Day
+Total a pagar:37Total a pagar:52Total a pagar:68
+.........................................................................
+Nombre Turista: anais
+Cedula de identidad del turista: 111
+Sexo: femenino
+Fecha registro:  08/10/2018 
+Almuerzo: no
+Tipo de paquete: Full Day
+Total a pagar:37Total a pagar:52Total a pagar:68
+.........................................................................
+Nombre Turista: mami
+Cedula de identidad del turista: 222
+Sexo: femenino
+Fecha registro:  08/10/2018 
+Almuerzo: no
+Tipo de paquete: Pura Vida
+Total a pagar:37Total a pagar:52Total a pagar:68
+.........................................................................
+Nombre Turista: papi
+Cedula de identidad del turista: 222
+Sexo: masculino
+Fecha registro:  08/10/2018 
+Almuerzo: no
+Tipo de paquete: Pura Vida
+Total a pagar:37Total a pagar:52Total a pagar:68
+.........................................................................
+Nombre Turista: hijo
+Cedula de identidad del turista: 111
+Sexo: masculino
+Fecha registro:  08/10/2018 
+Almuerzo: si
+Tipo de paquete: Pura Vida
+Total a pagar:41Total a pagar:52Total a pagar:68
+.........................................................................
+Nombre Turista: hijo
+Cedula de identidad del turista: 111
+Sexo: masculino
+Fecha registro:  08/10/2018 
+Almuerzo: si
+Tipo de paquete: Pura Vida
+Total a pagar:41Total a pagar:52Total a pagar:68
+.........................................................................
+Nombre Turista: chola
+Cedula de identidad del turista: 333
+Sexo: femenino
+Fecha registro:  08/10/2018 
+Almuerzo: si
+Tipo de paquete: Full Day
+Total a pagar:37Total a pagar:52Total a pagar:
+.........................................................................
+Nombre Turista: chola
+Cedula de identidad del turista: 333
+Sexo: femenino
+Fecha registro:  08/10/2018 
+Almuerzo: si
+Tipo de paquete: Full Day
+Total a pagar:37Total a pagar:52Total a pagar:
+.........................................................................
+Nombre Turista: dd
+Cedula de identidad del turista: d
+Sexo: masculino
+Fecha registro:  08/10/2018 
+Almuerzo: no
+Tipo de paquete: Pura Vida
+Total a pagar:37Total a pagar:52Total a pagar:68
+.........................................................................
+Nombre Turista: dd
+Cedula de identidad del turista: d
+Sexo: masculino
+Fecha registro:  08/10/2018 
+Almuerzo: no
+Tipo de paquete: Pura Vida
+
+.........................................................................
+Nombre Turista: PRUEBA
+Cedula de identidad del turista: 111
+Sexo: femenino
+Fecha registro:  08/10/2018 
+Almuerzo: no
+Tipo de paquete: Half Day
+
+.........................................................................
+Nombre Turista: PRUEBA
+Cedula de identidad del turista: 222
+Sexo: femenino
+Fecha registro:  08/10/2018 
+Almuerzo: si
+Tipo de paquete: Half Day
+Total a pagar:72
+.........................................................................
+Nombre Turista: PRUEBA
+Cedula de identidad del turista: 222
+Sexo: femenino
+Fecha registro:  08/10/2018 
+Almuerzo: si
+Tipo de paquete: Half Day
+Total a pagar:72
+.........................................................................
+Nombre Turista: esta si
+Cedula de identidad del turista: 333
+Sexo: femenino
+Fecha registro:  08/10/2018 
+Almuerzo: si
+Tipo de paquete: Full Day
+Total a pagar:
+.........................................................................
+Nombre Turista: esta si
+Cedula de identidad del turista: 333
+Sexo: femenino
+Fecha registro:  08/10/2018 
+Almuerzo: si
+Tipo de paquete: Full Day
+Total a pagar:
+.........................................................................
+Nombre Turista: esta si
+Cedula de identidad del turista: 333
+Sexo: femenino
+Fecha registro:  08/10/2018 
+Almuerzo: si
+Tipo de paquete: Full Day
+Total a pagar:
+.........................................................................
+Nombre Turista: si
+Cedula de identidad del turista: 111
+Sexo: femenino
+Fecha registro:  08/10/2018 
+Almuerzo: si
+Tipo de paquete: Pura Vida
+Total a pagar:41
+.........................................................................
+Nombre Turista: otra
+Cedula de identidad del turista: 111
+Sexo: femenino
+Fecha registro:  08/10/2018 
+Almuerzo: si
+Tipo de paquete: Full Day
+Total a pagar:
+.........................................................................
+Nombre Turista: yyy
+Cedula de identidad del turista: 111
+Sexo: femenino
+Fecha registro:  08/10/2018 
+Almuerzo: si
+Tipo de paquete: Half Day
+Total a pagar:72
+.........................................................................
+Nombre Turista: yyy
+Cedula de identidad del turista: 111
+Sexo: femenino
+Fecha registro:  08/10/2018 
+Almuerzo: si
+Tipo de paquete: Half Day
+Total a pagar:56
+.........................................................................
+Nombre Turista: uuu
+Cedula de identidad del turista: 222
+Sexo: femenino
+Fecha registro:  08/10/2018 
+Almuerzo: si
+Tipo de paquete: Full Day
+Total a pagar:72
+.........................................................................
+Nombre Turista: dd
+Cedula de identidad del turista: d
+Sexo: femenino
+Fecha registro:  08/10/2018 
+Almuerzo: no
+Tipo de paquete: Full Day
+Total a pagar:68
+.........................................................................
+Nombre Turista: dd
+Cedula de identidad del turista: d
+Sexo: masculino
+Fecha registro:  08/10/2018 
+Almuerzo: no
+Tipo de paquete: Half Day
+Total a pagar:52
+.........................................................................
+Nombre Turista: ttt
+Cedula de identidad del turista: rrr
+Sexo: 
+Fecha registro:  08/10/2018 
+Almuerzo: 
+Tipo de paquete: Pura Vida
+
+.........................................................................
+Nombre Turista: ee
+Cedula de identidad del turista: ee
+Sexo: masculino
+Fecha registro:  08/10/2018 
+Almuerzo: si
+Tipo de paquete: Half Day
+Total a pagar:56
+.........................................................................
+Nombre Turista: qqq
+Cedula de identidad del turista: qqq
+Sexo: femenino
+Fecha registro:  08/10/2018 
+Almuerzo: no
+Tipo de paquete: Pura Vida
+Total a pagar:37
+.........................................................................
+Nombre Turista: qqq
+Cedula de identidad del turista: qqq
+Sexo: femenino
+Fecha registro:  08/10/2018 
+Almuerzo: no
+Tipo de paquete: Pura Vida
+Total a pagar:37
+.........................................................................
+Nombre Turista: 
+Cedula de identidad del turista: 
+Sexo: 
+Fecha registro: 
+Almuerzo: 
+Tipo de paquete: 
+
+.........................................................................
+Nombre Turista: 
+Cedula de identidad del turista: 
+Sexo: 
+Fecha registro: 
+Almuerzo: 
+Tipo de paquete: 
+
+.........................................................................
+Nombre Turista: Ana
+Cedula de identidad del turista: 123
+Sexo: femenino
+Fecha registro:  08/10/2018 
+Almuerzo: no
+Tipo de paquete: Pura Vida
+Total a pagar:37
+.........................................................................
+Nombre Turista: Ana
+Cedula de identidad del turista: 123
+Sexo: femenino
+Fecha registro:  08/10/2018 
+Almuerzo: no
+Tipo de paquete: Pura Vida
+Total a pagar:37
+.........................................................................
+Nombre Turista: 
+Cedula de identidad del turista: 
+Sexo: 
+Fecha registro: 
+Almuerzo: 
+Tipo de paquete: 
+
+.........................................................................
+Nombre Turista: Hola
+Cedula de identidad del turista: hola
+Sexo: femenino
+Fecha registro:  08/10/2018 
+Almuerzo: si
+Tipo de paquete: Pura Vida
+Total a pagar:41
+.........................................................................
+Nombre Turista: Hola
+Cedula de identidad del turista: hola
+Sexo: femenino
+Fecha registro:  08/10/2018 
+Almuerzo: si
+Tipo de paquete: Pura Vida
+Total a pagar:41
+.........................................................................
+Nombre Turista: Hola
+Cedula de identidad del turista: hola
+Sexo: femenino
+Fecha registro:  08/10/2018 
+Almuerzo: si
+Tipo de paquete: Pura Vida
+Total a pagar:41
+.........................................................................
+Nombre Turista: 
+Cedula de identidad del turista: 
+Sexo: 
+Fecha registro: 
+Almuerzo: 
+Tipo de paquete: 
+
+.........................................................................
+Nombre Turista: rebeca
+Cedula de identidad del turista: 123
+Sexo: femenino
+Fecha registro:  08/10/2018 
+Almuerzo: si
+Tipo de paquete: Pura Vida
+Total a pagar:41
+.........................................................................
+Nombre Turista: rebeca
+Cedula de identidad del turista: 123
+Sexo: femenino
+Fecha registro:  08/10/2018 
+Almuerzo: si
+Tipo de paquete: Pura Vida
+Total a pagar:41
+.........................................................................
+Nombre Turista: rebeca
+Cedula de identidad del turista: 123
+Sexo: femenino
+Fecha registro:  08/10/2018 
+Almuerzo: si
+Tipo de paquete: Pura Vida
+Total a pagar:41
+.........................................................................
+Nombre Turista: 
+Cedula de identidad del turista: 
+Sexo: 
+Fecha registro: 
+Almuerzo: 
+Tipo de paquete: 
+
+.........................................................................
+Nombre Turista: 
+Cedula de identidad del turista: 
+Sexo: 
+Fecha registro: 
+Almuerzo: 
+Tipo de paquete: 
+
+.........................................................................
+Nombre Turista: 
+Cedula de identidad del turista: 
+Sexo: 
+Fecha registro: 
+Almuerzo: 
+Tipo de paquete: 
+
+.........................................................................
+Nombre Turista: 
+Cedula de identidad del turista: 
+Sexo: 
+Fecha registro: 
+Almuerzo: 
+Tipo de paquete: 
+
+.........................................................................
+Nombre Turista: 
+Cedula de identidad del turista: 
+Sexo: 
+Fecha registro: 
+Almuerzo: 
+Tipo de paquete: 
+
+.........................................................................
+Nombre Turista: 
+Cedula de identidad del turista: 
+Sexo: 
+Fecha registro: 
+Almuerzo: 
+Tipo de paquete: 
+
+.........................................................................
+Nombre Turista: Rafael
+Cedula de identidad del turista: 112
+Sexo: masculino
+Fecha registro:  09/10/2018 
+Almuerzo: si
+Tipo de paquete: Pura Vida
+Total a pagar:41
+.........................................................................
+Nombre Turista: 
+Cedula de identidad del turista: 
+Sexo: 
+Fecha registro: 
+Almuerzo: 
+Tipo de paquete: 
+
+.........................................................................
+Nombre Turista: 
+Cedula de identidad del turista: 
+Sexo: 
+Fecha registro: 
+Almuerzo: 
+Tipo de paquete: 
+
+.........................................................................
+Nombre Turista: prueba
+Cedula de identidad del turista: 563
+Sexo: masculino
+Fecha registro:  10/10/2018 
+Almuerzo: si
+Tipo de paquete: Pura Vida
+Total a pagar:41
+.........................................................................
+Nombre Turista: 
+Cedula de identidad del turista: 
+Sexo: 
+Fecha registro: 
+Almuerzo: 
+Tipo de paquete: 
+
+.........................................................................
+Nombre Turista: prueba2
+Cedula de identidad del turista: 475
+Sexo: masculino
+Fecha registro:  10/10/2018 
+Almuerzo: si
+Tipo de paquete: Half Day
+Total a pagar:56
+.........................................................................
+Nombre Turista: prueba3
+Cedula de identidad del turista: 357
+Sexo: masculino
+Fecha registro:  10/10/2018 
+Almuerzo: si
+Tipo de paquete: Full Day
+Total a pagar:72
+.........................................................................
+Nombre Turista: Anayanci
+Cedula de identidad del turista: 1111
+Sexo: femenino
+Fecha registro:  10/10/2018 
+Almuerzo: no
+Tipo de paquete: Pura Vida
+Total a pagar:37
+.........................................................................
+Nombre Turista: final
+Cedula de identidad del turista: 123
+Sexo: femenino
+Fecha registro:  10/10/2018 
+Almuerzo: no
+Tipo de paquete: Pura Vida
+Total a pagar:37
+.........................................................................

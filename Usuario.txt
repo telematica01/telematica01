@@ -1,0 +1,24 @@
+Nombre Completo: HOLA
+Cedula de identidad: 123
+Fecha de nacimiento: 1111-11-11
+Género: masculino
+Correo electronico: 1@1.com
+Nombre de Usuario: HG
+Contraseña: 1
+.........................................................................
+Nombre Completo: HOLA2
+Cedula de identidad: 1
+Fecha de nacimiento: 0111-11-11
+Género: masculino
+Correo electronico: 2@2.com
+Nombre de Usuario: 1
+Contraseña: 11
+.........................................................................
+Nombre Completo: Ana
+Cedula de identidad: 111
+Fecha de nacimiento: 2018-10-05
+Género: femenino
+Correo electronico: f@gmail.com
+Nombre de Usuario: ana
+Contraseña: 111
+.........................................................................
